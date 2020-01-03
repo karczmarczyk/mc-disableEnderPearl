@@ -1,8 +1,4 @@
-name: OwnPlace
-main: pl.karczmarczyk.ownplace.OwnPlace
-version: 1.0
+name: DisableEnderPearl
+main: pl.karczmarczyk.disableEnderPearl.DisableEnderPearl
+version: 1.1
 author: Mati
-commands:
-    own_place:
-        description: past /own_place help
-        usage: /<command> [options]
